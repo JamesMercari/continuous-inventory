@@ -1,10 +1,10 @@
 {
-  "name": "mercari/continuousinventory",
+  "name": "mercaribg/continuousinventory",
   "description": "API for continuous inventory",
   "require": {
   },
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "extra": {
     "map": [
       [
